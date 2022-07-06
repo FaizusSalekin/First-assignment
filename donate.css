@@ -1,0 +1,123 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+.donateintro {
+    text-align: center;
+    padding: 200px 0px;
+    background-image: url(hands.jpg);
+    color: rgb(255, 251, 251);
+}
+
+.donateintro h1 {
+    font-size: 3em;
+}
+
+.donateintro p {
+    color: rgb(255, 255, 255);
+}
+
+a {
+    text-decoration: none;
+    padding: 10px 10px;
+    border-radius: 10px;
+    background-color: brown;
+}
+
+.donateamount {
+    text-align: center;
+    padding: 100px;
+}
+
+.donateamount h2 {
+    display: inline-block;
+    margin: 70px 20px;
+    background-color: lightblue;
+    padding: 30px 30px;
+    border-radius: 5px;
+
+}
+
+.donateamount input {
+    border: 0px;
+    text-align: center;
+}
+
+#twohundred {
+    background-color: rgb(240, 175, 175);
+    color: rgb(170, 39, 39);
+    border-color: red;
+    border: 2px solid red;
+}
+
+.plan {
+    text-align: center;
+}
+
+.threeplans {
+    display: flex;
+    margin: 50px 70px;
+    width: 90%;
+}
+
+.options {
+    width: 100%;
+    margin: 0 10px;
+    padding: 20px 10px;
+    text-align: justify;
+    border-radius: 5px;
+}
+
+.donatebutton {
+    padding: 10px 10px;
+    color: white;
+    background-color: rgb(221, 43, 30);
+    border-radius: 5px;
+    border: 5px solid rgb(221, 43, 30);
+}
+
+.one {
+    background-color: rgb(157, 231, 206);
+}
+
+.two {
+    background-color: rgb(153, 212, 153);
+}
+
+.three {
+    background-color: lightgoldenrodyellow;
+}
+
+.updates {
+    text-align: center;
+}
+
+.updates form {
+    margin: 50px 350px;
+    background-color: cornsilk;
+    padding: 50px 0;
+}
+
+#subscribe {
+    color: white;
+    background-color: orangered;
+}
+
+footer {
+    height: 170px;
+    text-align: center;
+    background-color: black;
+
+}
+
+footer h2 {
+    color: red;
+    padding-top: 50px;
+    font-family: 'Satisfy', cursive;
+}
+
+footer p {
+    color: white;
+
+}
