@@ -101,7 +101,7 @@ a {
 
 #subscribe {
     color: white;
-    background-color: orangered;
+    background-color: rgb(197, 81, 38);
 }
 
 footer {
@@ -112,7 +112,7 @@ footer {
 }
 
 footer h2 {
-    color: red;
+    color: rgb(189, 49, 49);
     padding-top: 50px;
     font-family: 'Satisfy', cursive;
 }
